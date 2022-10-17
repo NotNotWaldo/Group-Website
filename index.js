@@ -155,7 +155,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <>
+      <div>
         <div id='nav'>
           <div id='mainNav'>  
             <div id='navBtns'>
@@ -246,7 +246,7 @@ class App extends React.Component {
           </div>
         </div>
         
-      </>
+      </div>
     )
   }
 }
